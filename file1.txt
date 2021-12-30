@@ -2,4 +2,8 @@ Hello World.
 
 change is added
 
+
 now on master for bug 2 conflict
+
+i want to resolve the conflict  bug 2 
+
