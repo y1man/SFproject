@@ -1,3 +1,5 @@
 Hello World.
 
 change is added
+
+i want to resolve the conflict  bug 2 
