@@ -7,3 +7,5 @@ now on master for bug 2 conflict
 
 i want to resolve the conflict  bug 2 
 
+change : for WI6 to check for local master to test normal
+
