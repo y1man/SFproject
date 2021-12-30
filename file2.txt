@@ -1,3 +1,8 @@
-to fix bug1
 
-chnage for w14 by teammate for cr2 
+
+
+ 
+
+1.to fix bug1
+2.chnage for w14 by teammate for cr2
+3.change for rebase cr2
