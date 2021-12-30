@@ -7,5 +7,9 @@ Hello World.
 
 3.i want to resolve the conflict  bug 2 
 
+
 4.change : for WI6 to check for local master to test normal.
 5.By team mate on remote master for bug3.
+
+6.change : in local master for WI7 .
+
