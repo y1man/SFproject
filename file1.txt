@@ -1,11 +1,11 @@
 Hello World.
 
-change is added
+1.change is added
 
 
-now on master for bug 2 conflict
+2.now on master for bug 2 conflict
 
-i want to resolve the conflict  bug 2 
+3.i want to resolve the conflict  bug 2 
 
-change : for WI6 to check for local master to test normal
-
+4.change : for WI6 to check for local master to test normal
+5.By team mate on remote master for bug3.
